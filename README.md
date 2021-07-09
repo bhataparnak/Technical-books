@@ -1,2 +1,2 @@
 # Technical-books
-Technical books on various topics 
+This repository contains various books on Machine learning, Artificial Intelligence, Algorithms, Data Science, Miscellaneous stuf
